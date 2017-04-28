@@ -15,6 +15,6 @@ $(document).ready(function() {
 		error : function(xhr, status, err) {
 			$('#bitcoin_block_number').append(err+" N/A");
 		}
-		tu vas te calemer
+		
 	});
 });
